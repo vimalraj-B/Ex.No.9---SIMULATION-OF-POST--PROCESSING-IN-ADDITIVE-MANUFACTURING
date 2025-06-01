@@ -47,8 +47,6 @@
 
 ## Output:
 
-## Support Removal Process:
-
 ![Screenshot 2025-06-01 140611](https://github.com/user-attachments/assets/813584ab-c0b1-4f48-a3db-35415dc38e6e)
 
 ![Screenshot 2025-06-01 140624](https://github.com/user-attachments/assets/a4261d70-e641-4a27-b0c3-7f9358d9041f)
